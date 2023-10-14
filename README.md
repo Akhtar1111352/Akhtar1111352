@@ -1,3 +1,4 @@
+![logo](https://github.com/Akhtar1111352/Akhtar1111352/blob/main/WhatsApp%20Image%202023-10-10%20at%2019.26.28.jpeg)
 <h1 align="center">Hi 👋, I'm M M Akhtar</h1>
 <h3 align="center">A passionate software engineer from India</h3>
 
