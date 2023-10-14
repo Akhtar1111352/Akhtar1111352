@@ -2,8 +2,7 @@
 <h1 align="center">Hi 👋, I'm M M Akhtar</h1>
 <h3 align="center">A passionate software engineer from India</h3>
 
-<img align = "right" alt = "coding" width = "400" src = "(https://github.com/Akhtar1111352/Akhtar1111352/assets/113335155/94811bef-b459-4950-8cd3-a79bd50623c6)
-"
+<img align = "right" alt = "coding" width = "400" src = "https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhtar1111352&label=Profile%20views&color=0e75b6&style=flat" alt="akhtar1111352" /> </p>
 
